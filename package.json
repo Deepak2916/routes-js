@@ -1,0 +1,23 @@
+{
+  "name": "reading-and-writing",
+  "version": "1.0.0",
+  "description": "node js pacage",
+  "main": "read.js",
+  "devDependencies": {
+    "nodemon": "^2.0.20"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start":"nodemon read.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Deepak2916/routes-js.git"
+  },
+  "author": "deepak",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Deepak2916/routes-js/issues"
+  },
+  "homepage": "https://github.com/Deepak2916/routes-js#readme"
+}
